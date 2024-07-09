@@ -4,7 +4,7 @@ Good day! 🌞
 
 I am LuffyKudo. 🏴‍☠️🔎
 
-Kindly visit my website/blog below to know more about me. 🤘
+Kindly visit my website/blog below. 🤘
 
 [![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress&style=for-the-badge)](https://luffykudo.wordpress.com)
 
