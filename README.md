@@ -6,7 +6,7 @@ I am LuffyKudo. 🏴‍☠️🔎
 
 Kindly visit my website/blog below to know more about me. 🤘
 
-[![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress)](https://luffykudo.wordpress.com)
+[![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress&style=for-the-badge)](https://luffykudo.wordpress.com)
 
 Thank you! You are loved! God Bless =>
 
