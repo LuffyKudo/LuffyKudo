@@ -8,19 +8,19 @@ I love playing boardgames and currently, I create themes for board and pieces to
 
 # Themes Created
 ## Themes for ♘Chess♞ (Lichess.org)
-- [![Static Badge](https://img.shields.io/badge/Github-Shogi--Themed_Chess-blue?logo=github)](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Chess-blue?logo=lichess&style=plastic)](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess)
   - 2-Kanji
   - 1-Kanji
-- [![Static Badge](https://img.shields.io/badge/Github-Doubutsu_Chess-0096ff?logo=github)](https://github.com/LuffyKudo/Doubutsu-Chess)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?logo=lichess&style=plastic)](https://github.com/LuffyKudo/Doubutsu-Chess)
 
 ## Theme for ☗Shogi☖ (Lishogi.org)
-- [![Static Badge](https://img.shields.io/badge/Github-Chess--Themed_Shogi-blue?logo=github)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
 
 ## Themes for ⛀⛁Checkers/Draughts⛃⛂ (Lidraughts.org)
-- [![Static Badge](https://img.shields.io/badge/Lidraughts-Filipino_Dama_Board-blue?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
-- [![Static Badge](https://img.shields.io/badge/Lidraughts-Shogi--Themed_Checkers/Draughts-darkgreen?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)
-- [![Static Badge](https://img.shields.io/badge/Lidraughts-Chess_Pieces-red?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces)
-- [![Static Badge](https://img.shields.io/badge/Lidraughts-19th_Century_Proposed_Checkerboard-yellow?logo=github)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Filipino_Dama_Board-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Checkers/Draughts-darkgreen?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Chess_Pieces-red?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces)
+- [![Static Badge](https://img.shields.io/badge/GitHub-19th_Century_Proposed_Checkerboard-yellow?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
 
 # Website
 
