@@ -9,8 +9,6 @@ I love playing boardgames and currently, I create userstyles for board and piece
 # Themes Created
 ## Themes for ♘Chess♞ (Lichess.org)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Chess-blue?logo=lichess&style=plastic)](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess)
-  - 2-Kanji
-  - 1-Kanji
 - [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?logo=lichess&style=plastic)](https://github.com/LuffyKudo/Doubutsu-Chess)
 
 ## Theme for ☗Shogi☖ (Lishogi.org)
