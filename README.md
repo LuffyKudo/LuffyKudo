@@ -15,6 +15,8 @@ I love playing boardgames and currently, I create userstyles for board and piece
 
 ### ☗Shogi☖ (Lishogi.org)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Hari_Seldon_Shogi_Pieces-darkgreen?logo=css3&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces)
+
 
 ### ⛀⛁Checkers/Draughts⛃⛂ (Lidraughts.org)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Filipino_Dama_Board-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
