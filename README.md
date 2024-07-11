@@ -25,11 +25,11 @@ I love playing boardgames and currently, I create userstyles for board and piece
 - [![Static Badge](https://img.shields.io/badge/GitHub-19th_Century_Proposed_Checkerboard-yellow?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Checkers/Draughts-purple?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts)
 
-## Website
+## Socials
 
-Kindly visit my website/blog below. 🤘
+Kindly visit my website/blog and other socials media below. 🤘
 
-[![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress&style=for-the-badge)](https://luffykudo.wordpress.com)
+[![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress&style=for-the-badge)](https://luffykudo.wordpress.com) [![Static Badge](https://img.shields.io/badge/Facebook-LuffyKudo-darkgreen?logo=facebook&style=for-the-badge)](https://facebook.com/LuffyKudo) [![Static Badge](https://img.shields.io/badge/UserStyles-LuffyKudo-red?logo=stylus&style=for-the-badge)](https://userstyles.world/user/LuffyKudo) 
 
 Thank you! You are loved! God Bless =>
 
