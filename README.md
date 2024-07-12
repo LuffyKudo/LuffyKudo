@@ -19,11 +19,12 @@ I love playing tabletop games and currently, I create userstyles for board and p
 
 
 ### ⛀⛁Checkers/Draughts⛃⛂ (Lidraughts.org)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Filipino_Dama_Board-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Checkers/Draughts-darkgreen?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Chess_Pieces-red?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces)
-- [![Static Badge](https://img.shields.io/badge/GitHub-19th_Century_Proposed_Checkerboard-yellow?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Checkers/Draughts-purple?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Lidraughts_Themes-black?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Filipino_Dama_Board-blue?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Filipino%20Dama%20Board)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Checkers/Draughts-darkgreen?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Shogi-Themed%20Checkers%E2%88%95Draughts)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Chess_Pieces-red?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Chess%20Pieces)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-19th_Century_Proposed_Checkerboard-yellow?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/19th%20Century%20Proposed%20Checkerboard)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Checkers/Draughts-purple?logo=css3&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes/tree/main/Doubutsu%20Checkers%E2%88%95Draughts)
 
 ## Socials
 
