@@ -27,7 +27,7 @@ I love playing boardgames and currently, I create userstyles for board and piece
 
 ## Socials
 
-Kindly visit my website/blog and other socials media below. 🤘
+Kindly visit my website/blog and other social medias below. 🤘
 
 [![Static Badge](https://img.shields.io/badge/Website-LuffyKudo-blue?logo=wordpress&style=for-the-badge)](https://luffykudo.wordpress.com) [![Static Badge](https://img.shields.io/badge/Facebook-LuffyKudo-darkgreen?logo=facebook&style=for-the-badge)](https://facebook.com/LuffyKudo) [![Static Badge](https://img.shields.io/badge/UserStyles-LuffyKudo-red?logo=stylus&style=for-the-badge)](https://userstyles.world/user/LuffyKudo) 
 
