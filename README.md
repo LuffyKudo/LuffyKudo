@@ -6,7 +6,7 @@ Good day! 🌞
 
 I am LuffyKudo. 🏴‍☠️🔎
 
-I love playing boardgames and currently, I create userstyles for board and pieces to be used on Lichess, Lishogi and Lidraughts.
+I love playing tabletop games and currently, I create userstyles for board and pieces to be used on Lichess, Lishogi and Lidraughts.
 
 ## Themes Created
 ### ♘Chess♞ (Lichess.org)
