@@ -14,8 +14,10 @@ I love playing tabletop games and currently, I create userstyles for board and p
 - [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?logo=lichess&style=plastic)](https://github.com/LuffyKudo/Doubutsu-Chess)
 
 ### ☗Shogi☖ (Lishogi.org)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=stylus&style=plastic)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
-- [![Static Badge](https://img.shields.io/badge/GitHub-Hari_Seldon_Shogi_Pieces-darkgreen?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces)
+- [![Static Badge](https://img.shields.io/badge/GitHub-Lidraughts_Themes-black?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=stylus&style=plastic)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Hari_Seldon_Shogi_Pieces-darkgreen?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces)
+  - [![Static Badge](https://img.shields.io/badge/GitHub-13xforever_Shogi_Pieces-red?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/13xforever%20Shogi%20Pieces)
 
 
 ### ⛀⛁Checkers/Draughts⛃⛂ (Lidraughts.org)
