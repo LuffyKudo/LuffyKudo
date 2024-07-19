@@ -20,8 +20,7 @@ I love playing tabletop games and currently, I create userstyles for board and p
   - [![Static Badge](https://img.shields.io/badge/GitHub-13xforever_Shogi_Pieces-red?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/13xforever%20Shogi%20Pieces)
   - [![Static Badge](https://img.shields.io/badge/GitHub-Ryoko_Style_Pieces-yellow?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Ryoko)
   - [![Static Badge](https://img.shields.io/badge/GitHub-Kinki_Style_Pieces-purple?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Kinki)
-
-
+  - [![Static Badge](https://img.shields.io/badge/GitHub-Minase_Style_Pieces-orange?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Minase)
 
 ### ⛀⛁Checkers/Draughts⛃⛂ (Lidraughts.org)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Lidraughts_Themes-black?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Lidraughts-Themes)
