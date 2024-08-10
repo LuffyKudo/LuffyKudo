@@ -1,3 +1,7 @@
+> God will not let something to happen if it has no good reason. <br>
+>
+> &emsp;— J.I. Maglinte-Jumawan
+
 # LuffyKudo
 
 Kumuschiwa everyone! 👋
