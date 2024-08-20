@@ -17,7 +17,7 @@ I love playing tabletop games and currently, I create userstyles for board and p
 - [![Static Badge](https://img.shields.io/badge/-gray?logo=lichess&style=plastic)![Static Badge](https://img.shields.io/badge/-gray?logo=chess.com&style=plastic)![Static Badge](https://img.shields.io/badge/GitHub-Shogi--Themed_Chess-blue?style=plastic)](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess_(Lichess_only)-0096ff?logo=Lichess&style=plastic)](https://github.com/LuffyKudo/Doubutsu-Chess)
 <!---- ![Static Badge](https://img.shields.io/badge/-gray?logo=lichess&style=plastic)![Static Badge](https://img.shields.io/badge/-gray?logo=chess.com&style=plastic)![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?style=plastic)--->
-### ☗Shogi☖ (Lishogi.org)
+### ☗Shogi☖ (81Dojo & Lishogi.org)
 - [![Static Badge](https://img.shields.io/badge/GitHub-Shogi_Themes-black?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes)
   - [![Static Badge](https://img.shields.io/badge/GitHub-Chess--Themed_Shogi-blue?logo=stylus&style=plastic)](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi)
   - [![Static Badge](https://img.shields.io/badge/GitHub-Hari_Seldon_Shogi_Pieces-darkgreen?logo=stylus&style=plastic)](https://github.com/LuffyKudo/Shogi-Themes/tree/main/Hari%20Seldon%20Shogi%20Pieces)
