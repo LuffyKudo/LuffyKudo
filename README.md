@@ -10,7 +10,7 @@ Good day! 🌞
 
 I am LuffyKudo. 🏴‍☠️🔎
 
-I love playing tabletop games and currently, I create userstyles for board and pieces to be used on Lichess, ChessCom, Lishogi and Lidraughts.
+I love playing tabletop games and currently, I create userstyles for board and pieces to be used on Lichess, ChessCom, 81Dojo, Lishogi and Lidraughts.
 
 ## Themes Created
 ### ♘Chess♞ (Lichess.org & Chess.com)
